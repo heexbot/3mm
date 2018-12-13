@@ -1,4 +1,4 @@
-token=NTIyODMyMDAzMzgxNTkyMDc0.DvQzmQ.AqVVvYMrijb6Kriudg_Cg8Zl0hw
+token=NTIyODQ4NDk2NzI3MDk3MzU0.DvQ8PA.dAG9_wsZPwimyMdLj2soMt8QdRA
 owner=475742508089999371
 prefix= 3
 game= 3play l 3help
